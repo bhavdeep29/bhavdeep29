@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello there! I'm Bhavdeep Mangukiya
 
-<!--
-**bhavdeep29/bhavdeep29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about Web Development | Learning Python ☁️  
+🚀 Exploring React, Node.js, and full-stack tech  
+📚 Currently working on personal projects & contributing on GitHub  
+📍 Based in Gandhinagar | 🕒 UTC+05:30
 
-Here are some ideas to get you started:
+# 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React.js, Bootstrap  
+- Backend: Node.js, Express.js, MongoDB  
+- Tools: Git, GitHub, VS Code, Postman
+- Learning: Python, ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📈 GitHub Stats
+![Bhavdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavdeep29&show_icons=true&theme=radical)
+
+> ✨ “Every line of code brings me closer to the future I imagine.”  
