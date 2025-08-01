@@ -14,4 +14,4 @@
 # 📈 GitHub Stats
 ![Bhavdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavdeep29&show_icons=true&theme=radical)
 
-> ✨ “Every line of code brings me closer to the future I imagine.”  
+> ✨ “Error 404: Social Life Not Found”  
