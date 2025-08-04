@@ -2,7 +2,7 @@
 
 A passionate Programmer from INDIA
 
-🔭 I’m currently working on a marketplace
+🔭 I’m currently working on a python project
 
 🌱 I’m currently learning AWS
 
