@@ -1,49 +1,21 @@
-# Hi 👋, I'm Bhavdeep Mangukiya
+# 💫 About Me:
+🔭 I’m currently working on Laravel Project<br>🤝 I’m looking for help with mastering AWS deployment pipelines<br>🌱 I’m currently learning AWS<br>💬 Ask me about API development and Database design<br>⚡ Fun fact: I spend more time naming variables than writing the actual function.
 
-A passionate Programmer from INDIA
 
-🔭 I’m currently working on a python project
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhvdp29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavdeep2908) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhvdp22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mangukiyabhavdeep007@gmail.com) 
 
-🌱 I’m currently learning AWS
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhavdeep29&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhavdeep29&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavdeep29&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💬 Ask me about python, react... or anything [here](https://github.com/bhavdeep29/bhavdeep29/issues)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhavdeep29&theme=merko&no-frame=true&no-bg=false&margin-w=4)
 
-⚡ Fun fact I think I'm funny
+---
+[![](https://visitcount.itsvg.in/api?id=bhavdeep29&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## 📬 Contact Me
-
-<p align="left">
-  <a href="mailto:mangukiyabhavdeep007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/bhavdeep2908" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<hr style="height:1px; border:none; color:#ccc; background-color:#ccc;" />
-
-## 🛠️ Tech Stack
-
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Frameworks  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-
-### Tools & Platforms  
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-
-<hr style="height:1px; border:none; color:#ccc; background-color:#ccc;" />
-
-# ⚡ Stats ⚡
-![Bhavdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavdeep29&show_icons=true&theme=radical)
-
-> ✨ “Error 404: Social Life Not Found”  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
