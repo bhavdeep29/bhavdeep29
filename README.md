@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel Project<br>🤝 I’m looking for help with mastering AWS deployment pipelines<br>🌱 I’m currently learning AWS<br>💬 Ask me about API development and Database design<br>⚡ Fun fact: I spend more time naming variables than writing the actual function.
+🔭 I’m currently working on Laravel Project<br>🌱 I’m currently learning Salseforce<br>💬 Ask me about API development and Database design<br>⚡ Fun fact: I spend more time naming variables than writing the actual function.
 
 
 ## 🌐 Socials:
